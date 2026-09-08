@@ -1,0 +1,11 @@
+track_name,artist,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+"Blinding Lights","The Weeknd",90,0.8,0.7,1,-5.0,1,0.05,0.1,0.0,0.1,0.6,171,200000
+"Dance Monkey","Tones and I",85,0.7,0.6,0,-4.5,1,0.1,0.2,0.0,0.2,0.7,98,210000
+"Watermelon Sugar","Harry Styles",88,0.7,0.8,2,-3.0,1,0.05,0.3,0.0,0.1,0.8,95,174000
+"Don't Start Now","Dua Lipa",87,0.8,0.7,0,-4.0,1,0.1,0.1,0.0,0.1,0.7,124,183000
+"Circles","Post Malone",86,0.6,0.7,0,-5.0,1,0.1,0.2,0.0,0.1,0.5,120,215000
+"Someone You Loved","Lewis Capaldi",84,0.5,0.6,0,-5.5,1,0.1,0.3,0.0,0.1,0.4,110,182000
+"Memories","Maroon 5",83,0.6,0.7,0,-4.0,1,0.1,0.2,0.0,0.1,0.6,100,189000
+"bad guy","Billie Eilish",82,0.7,0.5,0,-6.0,1,0.1,0.3,0.0,0.1,0.5,135,194000
+"Señorita","Shawn Mendes, Camila Cabello",81,0.7,0.6,0,-4.5,1,0.1,0.2,0.0,0.1,0.7,117,191000
+"Shallow","Lady Gaga, Bradley Cooper",80,0.5,0.6,0,-5.0,1,0.1,0.3,0.0,0.1,0.4,96,216000
